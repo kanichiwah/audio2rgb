@@ -19,5 +19,5 @@ Then simply launch the program with your arduino connected via usb, click on con
 
 Also when the arduino is not recieving any data it loops rgb colors.
 
-#TODO
+# TODO
 Add support for IR
